@@ -1,0 +1,13 @@
+#ghania{
+    font-size: 30px;
+    border:2px solid yellowgreen ;
+    background-color: antiquewhite;
+    margin: 100px;
+    padding:50px ;
+    border-radius: 40px;
+}
+#ghania:hover{
+    background-color: blue ;
+    color: white;
+    border-color: red;
+}

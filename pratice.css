@@ -1,0 +1,36 @@
+/* target first child  */
+section p:first-child{
+    font-size: 40px;
+    color: blueviolet;
+}
+/* target last child  */
+
+section p:last-child{
+    font-size: 40px;
+    color: blueviolet;
+}
+/* target any child with number */
+
+section p:nth-child(2){
+    font-size: 40px;
+    color: blueviolet;
+}
+
+/* target with class */
+.heading{
+    color: red;
+}
+
+/* on mouse hover  */
+.heading2:hover{
+    color: blue!important;  /* important class (yehi wala style lgy ga ) zaroori hai */
+}
+
+/* target with id */
+#heading{
+    color: white;
+    border: 4px solid black;
+    background-color: red;
+    padding: 80px 10px 5px 0px;
+    margin: 80px;
+}
