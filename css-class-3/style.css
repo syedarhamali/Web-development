@@ -1,0 +1,14 @@
+
+.container {
+    display: flex;
+    justify-content: space-between; /* brabar ka gap dene k lea use hoga */
+    margin: 30px;
+    /* gap: 10px;  gap deny k lea use hoga equally */  
+}
+
+.header{
+    background-color: red;
+    color: white;
+    font-size: 40px;
+}
+
